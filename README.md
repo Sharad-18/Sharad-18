@@ -1,12 +1,27 @@
-### Hi there 👋 I am Sharad Sisodiya
-## About me
-I am an Artificial Intelligence student at Vivekanada Global University since 2021. I am passionate about data science and continuously learning new skills and techniques to become a successful data scientist.
+## 👋 About Me
 
-My GitHub repository contains a wide range of projects, from simple examples to complex applications, all designed to help learners of all levels. Through my projects, I aim to showcase my skills and knowledge in data science and share my experiences with the community.
+Hi, I'm **Sharad Sisodiya**, a passionate **B.Tech(CSE) student** specializing in **Artificial Intelligence** at **Vivekananda Global University, Jaipur** (Expected CGPA: 8.5). I have a strong foundation in **Machine Learning**, **Data Analytics**, and **Python** programming, with hands-on experience in building innovative AI-driven solutions.
 
-I am proficient in various programming languages and tools, including Python, SQL, and machine learning libraries such as scikit-learn, TensorFlow, and Keras. I also have experience with data visualization tools such as Tableau and matplotlib.
+### 🛠️ Key Areas of Expertise:
+- **Conversational AI & Multi-Language Translation**: Proficient in leveraging models like **SeamlessM4T** and working with translation tasks in various languages.
+- **Machine Learning & NLP**: Developed models for **Anomaly Detection**, **Sentiment Analysis**, and **Comment Summarization** using **scikit-learn**, **spaCy**, and **NLTK**.
+- **Vector Databases & Embedding Models**: Expertise in generating text embeddings using **Chroma DB** for detecting patterns in textual data.
+- **AI Agent Development**: Currently working on **AI Agents** for **Business Development**, using **LangChain** and **LLMs**.
+- **Full-Stack AI Solutions**: Experience in **API development** using **Flask**, **Chrome Plugin Development**, and **CI/CD pipelines** using **GitHub Actions** and **AWS**.
+- **DevOps & MLOps**: Well-versed in setting up **Dockerized environments**, building pipelines for **model versioning**, and deploying on **AWS**.
 
-In addition to my technical skills, I am a strong communicator and team player. I believe that collaboration and communication are key to achieving success in any project. I am always looking for new opportunities to collaborate and learn from others in the data science community.
+### 📂 Projects:
+- **AI Business Development Manager**: Multi-AI agent for identifying relationships between business professionals based on common interests and data.
+- **Real-Time YouTube Comment Analysis Plugin**: Sentiment analysis and summarization tool for influencers.
+
+### 🔗 Let's Connect:
+- **GitHub**: [github.com/Sharad-18](https://github.com/Sharad-18)
+- **LinkedIn**: [linkedin.com/sharad-sisodiya18](https://linkedin.com/sharad-sisodiya18)
+
+---
+
+I’m always eager to collaborate on AI-driven projects and explore new technologies. Feel free to check out my repositories or reach out if you have an exciting idea to work on!
+
 
 Thank you for visiting my profile, and I look forward to connecting with you and contributing to the open-source community!"
 
