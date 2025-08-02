@@ -1,18 +1,36 @@
 ## 👋 About Me
 
-Hi, I'm **Sharad Sisodiya**, a passionate **B.Tech(CSE) student** specializing in **Artificial Intelligence** at **Vivekananda Global University, Jaipur** (Expected CGPA: 8.5). I have a strong foundation in **Machine Learning**, **Data Analytics**, and **Python** programming, with hands-on experience in building innovative AI-driven solutions.
+## Hi, I'm **Sharad Sisodiya**,   
+**AI Engineer | Data Scientist | GenAI Specialist**
 
-### 🛠️ Key Areas of Expertise:
-- **Conversational AI & Multi-Language Translation**: Proficient in leveraging models like **SeamlessM4T** and working with translation tasks in various languages.
-- **Machine Learning & NLP**: Developed models for **Anomaly Detection**, **Sentiment Analysis**, and **Comment Summarization** using **scikit-learn**, **spaCy**, and **NLTK**.
-- **Vector Databases & Embedding Models**: Expertise in generating text embeddings using **Chroma DB** for detecting patterns in textual data.
-- **AI Agent Development**: Currently working on **AI Agents** for **Business Development**, using **LangChain** and **LLMs**.
-- **Full-Stack AI Solutions**: Experience in **API development** using **Flask**, **Chrome Plugin Development**, and **CI/CD pipelines** using **GitHub Actions** and **AWS**.
-- **DevOps & MLOps**: Well-versed in setting up **Dockerized environments**, building pipelines for **model versioning**, and deploying on **AWS**.
+---
 
-### 📂 Projects:
-- **AI Business Development Manager**: Multi-AI agent for identifying relationships between business professionals based on common interests and data.
-- **Real-Time YouTube Comment Analysis Plugin**: Sentiment analysis and summarization tool for influencers.
+Passionate about building intelligent, autonomous systems using LLMs, agentic AI workflows, and retrieval-augmented generation (RAG).  
+I love transforming unstructured data into actionable insights across text, audio, image, and video modalities.  
+Experienced in deploying enterprise-grade AI solutions using **Azure OpenAI**, **Cognitive Services**, and **cloud-native tools**.
+
+---
+
+## 🔧 Technologies & Interests
+- **LLMs & GenAI:** Fine-tuning, prompt engineering, agentic workflows, OpenAI/Azure OpenAI, LangChain  
+- **NLP & ML/DL:** Named entity recognition, text summarization, classification, deep learning (CNN/RNN/Transformers)  
+- **Multimodal AI:** Speech (Whisper), Vision (CLIP), video analytics, cross-modal embeddings  
+- **Infrastructure:** Azure Functions, AKS, API management, CI/CD pipelines, Docker  
+- **Vector Search & RAG:** Azure Cognitive Search, FAISS, Weaviate  
+- **Tooling:** Python, PyTorch, Hugging Face, Databricks, FastAPI
+
+---
+
+##  Certifications
+- **Databricks Certified GenAI Professional**  
+- **Databricks Certified ML Professional**
+
+---
+
+## Featured Projects
+- 🔹 **Enterprise Multimodal RAG System** – Built a production-grade system combining audio, text, image, and video for semantic search and summarization using Azure AI stack.  
+- 🔹 **AI-Driven Call Transcript Automation** – Automated form filling using Whisper, Azure OpenAI, and PBX integration for hospital operations.  
+- 🔹 **Conversational AI Bots** – Developed context-aware chatbots with LLM backends and custom tool use via APIs and internal knowledge bases.
 
 ### 🔗 Let's Connect:
 - **GitHub**: [github.com/Sharad-18](https://github.com/Sharad-18)
